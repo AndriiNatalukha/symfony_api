@@ -69,6 +69,8 @@ http://localhost/symfony_api/public/api/users
 
 http://localhost/symfony_api/public/api/users/2
 
+============VIDEO============
+
 https://youtu.be/M38tge5AL3o
 
 Помилка замовника в тому що пароль користувача зберігається у відкритому вигляді, і передається по API
