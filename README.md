@@ -65,4 +65,7 @@
 
 ============TEST============
 http://localhost/symfony_api/public/api/users
+
 http://localhost/symfony_api/public/api/users/2
+
+Помилка замовника в тому що пароль користувача зберігається у відкритому вигляді, і передається по API
